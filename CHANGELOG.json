@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T05:05:03Z",
+    "currentVersion": "1.0.1",
+    "projectTypes": [
+      "flutter"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "1.0.1",
+      "project_types": [
+        "flutter"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### 🔧 변경사항\n- project-auto-wizard 0.17.0 설치",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "project-auto-wizard 0.17.0 설치"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
